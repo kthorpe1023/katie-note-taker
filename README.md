@@ -1,4 +1,4 @@
-[https://cryptic-crag-79236.herokuapp.com/] (https://cryptic-crag-79236.herokuapp.com/)
+[https://cryptic-crag-79236.herokuapp.com/](https://cryptic-crag-79236.herokuapp.com/)
 # Note Taker
 ## Description
 
