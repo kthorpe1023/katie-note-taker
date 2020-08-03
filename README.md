@@ -29,6 +29,7 @@ The note taker app is used to keep track of any thoughts or tasks the user wants
 ## Credits
 
 Katie Thorpe
+Trilogy created the front end code
 ## Test
 
 npm test
