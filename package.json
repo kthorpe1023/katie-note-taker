@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kthorpe1023/katie-note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uniqid": "^5.2.0"
   }
 }
